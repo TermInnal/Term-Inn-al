@@ -1,0 +1,379 @@
+[
+  {
+    "Feedback": "O hotel é muito entediante, não tem nenhuma atividade divertida!",
+    "Opcoes": [
+      {"Texto": "Construir uma sala de jogos [-$3500]", "Mdinh": -3500, "Mconf": 4},
+      {"Texto": "Promover noites temáticas semanais [-$2000]", "Mdinh": -2000, "Mconf": 2},
+      {"Texto": "Colocar música ao vivo no lobby [-$500]", "Mdinh": -500, "Mconf": 1},
+      {"Texto": "Ignorar o feedback", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Nenhuma opção de lazer para dias de chuva? Péssimo!",
+    "Opcoes": [
+      {"Texto": "Construir um cinema interno [-$25000]", "Mdinh": -25000, "Mconf": 13},
+      {"Texto": "Montar uma sala de karaokê [-$3000]", "Mdinh": -3000, "Mconf": 3},
+      {"Texto": "Comprar jogos de tabuleiro e montar uma área de jogos [-$800]", "Mdinh": -800, "Mconf": 1},
+      {"Texto": "Ignorar", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Sentimos falta de opções para as crianças brincarem!",
+    "Opcoes": [
+      {"Texto": "Construir um playground externo [-$7500]", "Mdinh": -7500, "Mconf": 3},
+      {"Texto": "Criar atividades de recreação infantil [-$2000]", "Mdinh": -2000, "Mconf": 1},
+      {"Texto": "Oferecer oficina de arte para crianças [-$3000]", "Mdinh": -3000, "Mconf": 1},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Que tal mais um lugar para relaxar e ver o pôr do sol?",
+    "Opcoes": [
+      {"Texto": "Construir um rooftop lounge [-$30000]", "Mdinh": -30000, "Mconf": 15},
+      {"Texto": "Montar um deck de observação simples [-$6000]", "Mdinh": -6000, "Mconf": 3},
+      {"Texto": "Reservar um espaço no jardim com cadeiras confortáveis [-$200]", "Mdinh": -200, "Mconf": 1},
+      {"Texto": "Ignorar a sugestão", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Precisam de mais atividades noturnas no hotel!",
+    "Opcoes": [
+      {"Texto": "Criar festas à beira da piscina aos sábados [-$4000]", "Mdinh": -4000, "Mconf": 3},
+      {"Texto": "Fazer noites de cinema ao ar livre [-$6500]", "Mdinh": -6500, "Mconf": 3},
+      {"Texto": "Organizar concursos de talentos para hóspedes [-$7000]", "Mdinh": -7000, "Mconf": 4},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Achamos o hotel meio 'morto', os momentos de diversão são curtos.",
+    "Opcoes": [
+      {"Texto": "Contratar uma equipe de animação full-time por um tempo [-$20000]", "Mdinh": -20000, "Mconf": 12},
+      {"Texto": "Oferecer aulas de dança para hóspedes [-$5000]", "Mdinh": -5000, "Mconf": 2},
+      {"Texto": "Melhorar a ambientação [-$2000]", "Mdinh": -2000, "Mconf": 3},
+      {"Texto": "Não mexer nisso agora", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Os espaços para esportes e lazer ao ar livre são muito cheios! Nada é promovido além disso!",
+    "Opcoes": [
+      {"Texto": "Construir uma quadra poliesportiva [-$15000]", "Mdinh": -15000, "Mconf": 8},
+      {"Texto": "Criar atividades de beach tennis e vôlei de areia [-$7000]", "Mdinh": -7000, "Mconf": 2},
+      {"Texto": "Alugar materiais para esportes de verão [-$3500]", "Mdinh": -3500, "Mconf": 3},
+      {"Texto": "Deixar como está", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Cadê os eventos culturais?",
+    "Opcoes": [
+      {"Texto": "Organizar apresentações de teatro ou dança local [-$12000]", "Mdinh": -12000, "Mconf": 5},
+      {"Texto": "Promover feiras de artesanato e gastronomia [-$8000]", "Mdinh": -8000, "Mconf": 3},
+      {"Texto": "Fazer pequenos workshops culturais para hóspedes [-$650]", "Mdinh": -650, "Mconf": 1},
+      {"Texto": "Ignorar", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Hospedagem boa, mas falta uma 'experiência diferente'.",
+    "Opcoes": [
+      {"Texto": "Oferecer passeios ecológicos guiados [-$9000]", "Mdinh": -9000, "Mconf": 4},
+      {"Texto": "Criar uma trilha própria no hotel [-$1500]", "Mdinh": -1500, "Mconf": 2},
+      {"Texto": "Montar experiências de camping 'luxuoso' [-$17500]", "Mdinh": -17500, "Mconf": 7},
+      {"Texto": "Manter o tradicional", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "A academia é muito simples e os equipamentos já estão velhos!",
+    "Opcoes": [
+      {"Texto": "Construir uma área fitness [-$23500]", "Mdinh": -23500, "Mconf": 12},
+      {"Texto": "Melhorar os equipamentos atuais [-$7000]", "Mdinh": -7000, "Mconf": 6},
+      {"Texto": "Fazer parcerias com academias locais [-$5000]", "Mdinh": -5000, "Mconf": 6},
+      {"Texto": "Não mexer", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+
+
+
+
+
+  {
+    "Feedback": "O quarto estava muito abafado, impossível relaxar!",
+    "Opcoes": [
+      {"Texto": "Instalar novos aparelhos de ar-condicionado em alguns quartos[-$7250]", "Mdinh": -7250, "Mconf": 5},
+      {"Texto": "Manutenção e limpeza dos ares atuais [-$2000]", "Mdinh": -2000, "Mconf": 2},
+      {"Texto": "Oferecer ventiladores extras para os quartos [-$800]", "Mdinh": -800, "Mconf": 1},
+      {"Texto": "Ignorar", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "O colchão era muito desconfortável!",
+    "Opcoes": [
+      {"Texto": "Trocar alguns colchões por modelos premium [-$10500]", "Mdinh": -10500, "Mconf": 5},
+      {"Texto": "Trocar alguns dos colchões mais antigos por modelos mais novos [-$4000]", "Mdinh": -4000, "Mconf": 3},
+      {"Texto": "Oferecer opções de colchão macio/firme [-$17000]", "Mdinh": -17000, "Mconf": 6},
+      {"Texto": "Deixar como está", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "O banheiro tinha um cheiro desagradável.",
+    "Opcoes": [
+      {"Texto": "Reformar os banheiros [-$25000]", "Mdinh": -25000, "Mconf": 9},
+      {"Texto": "Instalar purificadores e melhorar a ventilação [-$10000]", "Mdinh": -10000, "Mconf": 3},
+      {"Texto": "Colocar aromatizadores e intensificar a limpeza [-$4000]", "Mdinh": -4000, "Mconf": 2},
+      {"Texto": "Ignorar o problema", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "As roupas de cama estavam manchadas!",
+    "Opcoes": [
+      {"Texto": "Comprar roupas de cama novas de alta qualidade [-$9500]", "Mdinh": -9500, "Mconf": 2},
+      {"Texto": "Investir em lavanderia [-$10000]", "Mdinh": -10000, "Mconf": 4},
+      {"Texto": "Treinar melhor a equipe de limpeza [-$5000]", "Mdinh": -5000, "Mconf": 2},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "O quarto era muito barulhento à noite.",
+    "Opcoes": [
+      {"Texto": "Instalar janelas antirruído em alguns quartos [-$17000]", "Mdinh": -17000, "Mconf": 6},
+      {"Texto": "Distribuir tampões de ouvido gratuitos [-$2000]", "Mdinh": -2000, "Mconf": 2},
+      {"Texto": "Reduzir o horário de funcionamento de áreas barulhentas temporáriamente [-$1]", "Mdinh": -1, "Mconf": 1},
+      {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "A iluminação do quarto era fraca.",
+    "Opcoes": [
+      {"Texto": "Atualizar o sistema de iluminação em alguns quartos [-$8000]", "Mdinh": -8000, "Mconf": 7},
+      {"Texto": "Instalar abajures e luminárias extras em certos quartos [-$6000]", "Mdinh": -6000, "Mconf": 4},
+      {"Texto": "Disponibilizar luminárias portáteis sob demanda [-$3000]", "Mdinh": -3000, "Mconf": 4},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "O Wi-Fi no quarto estava ruim!",
+    "Opcoes": [
+      {"Texto": "Instalar novos roteadores em cada andar [-$16000]", "Mdinh": -16000, "Mconf": 9},
+      {"Texto": "Expandir o sinal com repetidores [-$5000]", "Mdinh": -8000, "Mconf": 7},
+      {"Texto": "Oferecer Wi-Fi premium pago [-$550]", "Mdinh": -550, "Mconf": 2},
+      {"Texto": "Deixar como está", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Não havia tomadas suficientes no quarto.",
+    "Opcoes": [
+      {"Texto": "Reformar elétrica e adicionar mais tomadas [-$25000]", "Mdinh": -25000, "Mconf": 6},
+      {"Texto": "Fornecer adaptadores e extensões [-$800]", "Mdinh": -800, "Mconf": 2},
+      {"Texto": "Colocar estações de carregamento no lobby [-$2000]", "Mdinh": -2000, "Mconf": 1},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "Faltam amenities no quarto (sabonete, shampoo...).",
+    "Opcoes": [
+      {"Texto": "Implementar kits de amenities premium [-$7000]", "Mdinh": -7000, "Mconf": 3},
+      {"Texto": "Melhorar o kit básico de higiene [-$3000]", "Mdinh": -5000, "Mconf": 5},
+      {"Texto": "Oferecer amenities sob demanda na recepção [-$800]", "Mdinh": -800, "Mconf": 1},
+      {"Texto": "Manter como está", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+  {
+    "Feedback": "O quarto tinha cheiro de mofo.",
+    "Opcoes": [
+      {"Texto": "Trocar carpetes e pintar as paredes [-$30000]", "Mdinh": -30000, "Mconf": 11},
+      {"Texto": "Instalar desumidificadores [-$6000]", "Mdinh": -6000, "Mconf": 3},
+      {"Texto": "Refazer a limpeza profunda dos quartos [-$1100]", "Mdinh": -1100, "Mconf": 2},
+      {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+    ]
+  },
+
+
+
+
+  
+    {
+      "Feedback": "A equipe da recepção foi muito rude.",
+      "Opcoes": [
+        {"Texto": "Treinar toda a equipe em atendimento [-$5000]", "Mdinh": -5000, "Mconf": 2},
+        {"Texto": "Aplicar advertências e reforçar o código de conduta [-$1]", "Mdinh": -1, "Mconf": 1},
+        {"Texto": "Trocar os funcionários da recepção [-$8000]", "Mdinh": -8000, "Mconf": 2},
+        {"Texto": "Ignorar o problema", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "O serviço de limpeza atrasou muito.",
+      "Opcoes": [
+        {"Texto": "Contratar mais funcionários de limpeza [-$3800]", "Mdinh": -3800, "Mconf": 2},
+        {"Texto": "Reorganizar os turnos de limpeza [-$600]", "Mdinh": -600, "Mconf": 1},
+        {"Texto": "Oferecer bônus para equipes mais rápidas [-$7000]", "Mdinh": -7000, "Mconf": 3},
+        {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "A reserva foi perdida e tive que esperar muito.",
+      "Opcoes": [
+        {"Texto": "Atualizar o sistema de reservas [-$11000]", "Mdinh": -11000, "Mconf": 5},
+        {"Texto": "Implementar dupla checagem manual nas reservas [-$3000]", "Mdinh": -3000, "Mconf": 2},
+        {"Texto": "Dar prioridade a quem tiver problemas na reserva [-$1000]", "Mdinh": -1000, "Mconf": 1},
+        {"Texto": "Ignorar o problema", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "Não consegui fazer check-in antecipado mesmo com quarto livre.",
+      "Opcoes": [
+        {"Texto": "Oferecer early check-in gratuito [-$1000]", "Mdinh": -1000, "Mconf": 3},
+        {"Texto": "Cobrar taxa reduzida para early check-in [-$800]", "Mdinh": -800, "Mconf": 2},
+        {"Texto": "Permitir early check-in só para clientes VIP [-$2000]", "Mdinh": -2000, "Mconf": 1},
+        {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "Solicitei serviço de quarto e demorou muito para chegar.",
+      "Opcoes": [
+        {"Texto": "Aumentar a equipe de room service [-$12000]", "Mdinh": -12000, "Mconf": 6},
+        {"Texto": "Implementar rastreamento de pedidos [-$2000]", "Mdinh": -2000, "Mconf": 2},
+        {"Texto": "Oferecer lanches prontos para retirada rápida [-$3000]", "Mdinh": -3000, "Mconf": 2},
+        {"Texto": "Deixar como está", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "O serviço de transporte do hotel nunca chegou.",
+      "Opcoes": [
+        {"Texto": "Contratar empresa externa para transporte [-$20000]", "Mdinh": -20000, "Mconf": 7},
+        {"Texto": "Comprar novos veículos para o hotel [-$30000]", "Mdinh": -30000, "Mconf": 8},
+        {"Texto": "Informar melhor os horários e rotas disponíveis [-$1350]", "Mdinh": -1350, "Mconf": 2},
+        {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "Fui cobrado por serviços que não usei.",
+      "Opcoes": [
+        {"Texto": "Revisar todo o sistema de cobrança [-$7000]", "Mdinh": -7000, "Mconf": 3},
+        {"Texto": "Treinar equipe para revisar contas com clientes [-$3000]", "Mdinh": -3000, "Mconf": 3},
+        {"Texto": "Oferecer reembolso rápido para erros [-$1000]", "Mdinh": -1000, "Mconf": 2},
+        {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "Não tinha ninguém para ajudar com as bagagens.",
+      "Opcoes": [
+        {"Texto": "Contratar carregadores de bagagem [-$8000]", "Mdinh": -8000, "Mconf": 3},
+        {"Texto": "Treinar recepção para auxiliar na bagagem [-$1100]", "Mdinh": -1100, "Mconf": 1},
+        {"Texto": "Disponibilizar carrinhos de bagagem para hóspedes [-$5000]", "Mdinh": -5000, "Mconf": 5},
+        {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "O serviço de café da manhã estava desorganizado.",
+      "Opcoes": [
+        {"Texto": "Reformar o salão do café da manhã [-$20000]", "Mdinh": -20000, "Mconf": 9},
+        {"Texto": "Aumentar a equipe para horários de pico [-$4500]", "Mdinh": -4500, "Mconf": 3},
+        {"Texto": "Criar reservas para o café da manhã [-$1200]", "Mdinh": -1200, "Mconf": 1},
+        {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+    {
+      "Feedback": "Não tinha opções de entretenimento no hotel.",
+      "Opcoes": [
+        {"Texto": "Criar uma área de jogos e lazer [-$22000]", "Mdinh": -22000, "Mconf": 11},
+        {"Texto": "Oferecer eventos semanais para hóspedes [-$4700]", "Mdinh": -4700, "Mconf": 4},
+        {"Texto": "Firmar parceria com atrações locais [-$3600]", "Mdinh": -3600, "Mconf": 3},
+        {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+      ]
+    },
+  
+
+
+
+
+    
+      {
+        "Feedback": "A comida do restaurante era fria e sem sabor.",
+        "Opcoes": [
+          {"Texto": "Trocar o chef principal [-$9750]", "Mdinh": -9750, "Mconf": 5},
+          {"Texto": "Treinar equipe de cozinha [-$4000]", "Mdinh": -4000, "Mconf": 2},
+          {"Texto": "Investir em novos equipamentos de cozinha [-$11000]", "Mdinh": -11000, "Mconf": 3},
+          {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "Demorou demais para trazerem minha comida.",
+        "Opcoes": [
+          {"Texto": "Contratar mais garçons [-$9000]", "Mdinh": -9000, "Mconf": 3},
+          {"Texto": "Reorganizar turnos de cozinha [-$3000]", "Mdinh": -3000, "Mconf": 2},
+          {"Texto": "Oferecer menu reduzido para horários de pico [-$800]", "Mdinh": -800, "Mconf": 1},
+          {"Texto": "Ignorar o problema", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "O café da manhã tinha poucas opções saudáveis.",
+        "Opcoes": [
+          {"Texto": "Adicionar opções saudáveis ao buffet [-$3500]", "Mdinh": -3500, "Mconf": 3},
+          {"Texto": "Oferecer café da manhã saudável à parte [-$3300]", "Mdinh": -3300, "Mconf": 2},
+          {"Texto": "Criar combos fitness com desconto [-$1300]", "Mdinh": -1300, "Mconf": 1},
+          {"Texto": "Manter o cardápio atual", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "O serviço do bar era muito lento.",
+        "Opcoes": [
+          {"Texto": "Contratar mais bartenders [-$8700]", "Mdinh": -8700, "Mconf": 4},
+          {"Texto": "Treinar equipe para agilizar pedidos [-$4000]", "Mdinh": -4000, "Mconf": 2},
+          {"Texto": "Oferecer drinques prontos nos horários de pico [-$1000]", "Mdinh": -1000, "Mconf": 2},
+          {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "O restaurante fechava muito cedo.",
+        "Opcoes": [
+          {"Texto": "Estender horário de funcionamento [-$3000]", "Mdinh": -3000, "Mconf": 4},
+          {"Texto": "Oferecer serviço de quarto até mais tarde [-$1300]", "Mdinh": -1300, "Mconf": 1},
+          {"Texto": "Firmar parceria com restaurantes locais [-$4000]", "Mdinh": -4000, "Mconf": 2},
+          {"Texto": "Manter horário atual", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "Achei os preços das comidas muito altos.",
+        "Opcoes": [
+          {"Texto": "Criar um cardápio com preços populares [-$1600]", "Mdinh": -1600, "Mconf": 1},
+          {"Texto": "Oferecer promoções em horários de baixa demanda [-$5000]", "Mdinh": -5000, "Mconf": 5},
+          {"Texto": "Incluir refeição simples no pacote de hospedagem [-$6400]", "Mdinh": -6400, "Mconf": 2},
+          {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "A comida não parecia fresca.",
+        "Opcoes": [
+          {"Texto": "Comprar de fornecedores locais de qualidade [-$7600]", "Mdinh": -7600, "Mconf": 3},
+          {"Texto": "Aumentar inspeções de qualidade na cozinha [-$1400]", "Mdinh": -1400, "Mconf": 1},
+          {"Texto": "Oferecer cardápio sazonal com ingredientes frescos [-$3000]", "Mdinh": -3000, "Mconf": 2},
+          {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "Faltavam opções vegetarianas e veganas.",
+        "Opcoes": [
+          {"Texto": "Adicionar seção vegana/vegetariana ao cardápio [-$2000]", "Mdinh": -2000, "Mconf": 2},
+          {"Texto": "Criar um restaurante temático vegano [-$26000]", "Mdinh": -26000, "Mconf": 2},
+          {"Texto": "Parceria com fornecedores de produtos veganos [-$3000]", "Mdinh": -3000, "Mconf": 1},
+          {"Texto": "Não mudar nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "Pedi comida para o quarto e veio errado.",
+        "Opcoes": [
+          {"Texto": "Implementar confirmação dupla de pedidos [-$4000]", "Mdinh": -4000, "Mconf": 3},
+          {"Texto": "Treinar equipe do room service [-$2000]", "Mdinh": -2000, "Mconf": 2},
+          {"Texto": "Oferecer refeição gratuita em caso de erro [-$6000]", "Mdinh": -6000, "Mconf": 1},
+          {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      },
+      {
+        "Feedback": "O ambiente do restaurante era barulhento e desconfortável.",
+        "Opcoes": [
+          {"Texto": "Investir em isolamento acústico [-$10000]", "Mdinh": -10000, "Mconf": 4},
+          {"Texto": "Reorganizar mesas para melhorar conforto [-$500]", "Mdinh": -500, "Mconf": 3},
+          {"Texto": "Criar áreas VIP mais reservadas [-$8000]", "Mdinh": -8000, "Mconf": 2},
+          {"Texto": "Não fazer nada", "Mdinh": 0, "Mconf": 0}
+        ]
+      }
+    
+]

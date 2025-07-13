@@ -1,0 +1,149 @@
+{
+    "Ruins": [
+      {
+        "texto": "Uma tempestade causou danos ao hotel e reduziu o seu conforto.",
+        "Mdinh": 0,
+        "Mconf": -16,
+        "hospedes": -1,
+        "quartos": 0
+      },
+      {
+        "texto": "Um rato foi encontrado no hotel, os hóspedes estão enojados.",
+        "Mdinh": 0,
+        "Mconf": -18,
+        "hospedes": -4,
+        "quartos": 0
+      },
+      {
+        "texto": "Foram feitas avaliações ruins do seu hotel na internet e ele está menos popular.",
+        "Mdinh": 0,
+        "Mconf": -5,
+        "hospedes": -8,
+        "quartos": 0
+      },
+      {
+        "texto": "Uma falha na energia queimou alguns aparelhos essenciais e você paga o reparo.",
+        "Mdinh": -8750,
+        "Mconf": -15,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "Um fiscal encontrou problemas no seu hotel e te multou. Você paga aproximadamente 30000 reais.",
+        "Mdinh": -30000,
+        "Mconf": -32,
+        "hospedes": -4,
+        "quartos": 0
+      },
+      {
+        "texto": "Um funcionário sofreu um acidente de trabalho e sua família ganhou uma indenização.",
+        "Mdinh": -15000,
+        "Mconf": -16,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "Infelizmente uma celebridade avaliou mal seu hotel, afastando hóspedes.",
+        "Mdinh": 0,
+        "Mconf": 0,
+        "hospedes": -15,
+        "quartos": 0
+      },
+      {
+        "texto": "Muitos hóspedes foram embora ao mesmo tempo.",
+        "Mdinh": 0,
+        "Mconf": 0,
+        "hospedes": -10,
+        "quartos": 0
+      },
+      {
+        "texto": "O hotel está muito sujo, os hóspedes estão reclamando.",
+        "Mdinh": 0,
+        "Mconf": -20,
+        "hospedes": -7,
+        "quartos": 0
+      },
+      {
+        "texto": "Alguns quartos estão muito danificados e não podem ser ocupados.",
+        "Mdinh": 0,
+        "Mconf": -15,
+        "hospedes": 0,
+        "quartos": -10
+      }
+    ],
+
+    
+
+    "Bons": [
+      {
+        "texto": "Seu hotel recebeu avaliações positivas e está com uma nota alta!",
+        "Mdinh": 2500,
+        "Mconf": 0,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "Hóspedes estão recomendando o seu hotel!",
+        "Mdinh": 3000,
+        "Mconf": 0,
+        "hospedes": 7,
+        "quartos": 0
+      },
+      {
+        "texto": "Uma celebridade avaliou seu hotel muito bem, atraindo mais hóspedes.",
+        "Mdinh": 3000,
+        "Mconf": 0,
+        "hospedes": 10,
+        "quartos": 0
+      },
+      {
+        "texto": "Os funcionários estão felizes com a situação de trabalho e estão mais empenhados, aumentando o conforto do hotel.",
+        "Mdinh": 0,
+        "Mconf": 4,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "Você ganhou um processo injusto contra seu hotel, levando 17500 reais.",
+        "Mdinh": 17500,
+        "Mconf": 0,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "O bom desempenho do seu hotel fez mais hóspedes o conhecerem.",
+        "Mdinh": 0,
+        "Mconf": 0,
+        "hospedes": 6,
+        "quartos": 0
+      },
+      {
+        "texto": "Críticos avaliaram seu hotel muito bem na internet e atrairam hóspedes!",
+        "Mdinh": 2000,
+        "Mconf": 0,
+        "hospedes": 4,
+        "quartos": 0
+      },
+      {
+        "texto": "Um bom investimento retornou $20000!",
+        "Mdinh": 20000,
+        "Mconf": 0,
+        "hospedes": 0,
+        "quartos": 0
+      },
+      {
+        "texto": "Hoje é feriado e mais pessoas vieram no hotel!",
+        "Mdinh": 0,
+        "Mconf": 0,
+        "hospedes": 13,
+        "quartos": 0
+      },
+      {
+        "texto": "Um amigo decidiu ajudar na construção de mais quartos, aumentando sua capacidade!",
+        "Mdinh": 0,
+        "Mconf": 3,
+        "hospedes": 2,
+        "quartos": 10
+      }
+    ]
+  }
