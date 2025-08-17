@@ -1,3 +1,33 @@
+
+
+
+
+
+
+#Essa parte é só o código do jogo, Pode fechar essa janela se quiser.
+
+#Use o Console em tela cheia para a melhor experiência!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import os
 import sys
 import readchar
@@ -36,7 +66,7 @@ fimDia = False
 eventoCancelado = False
 cooldown = False
 
-#★ ☆
+
 
 def recurso_caminho(rel_path):
     if hasattr(sys, '_MEIPASS'):
@@ -86,11 +116,6 @@ def sortEvento():
 
 
 
-# with open('eventos.json', 'r', encoding='utf-8') as arquivo:
-#     Edados = json.load(arquivo)
-
-# eventoEscolido = random.choice(Edados)
-# event = eventoEscolido['texto']
 
 def atualizar_tela():
     global opcoes, Mdinh, Mconf, hosp, dinheiro, eventoAtivo, PeventoAtivo, LP, ResultadoDia, GO, maxConf
@@ -113,7 +138,7 @@ def atualizar_tela():
         print("-------------------------------")
         print(f"{Fore.RED}Você Perdeu!{Fore.RESET}")
         print("\nO hotel faliu. Você pode ter perdido por zerar Pontos de Liderança ou zerar conforto e hóspedes.")
-        print(f"{Fore.YELLOW}Recarregue{Fore.RESET} a página para recomeçar.")
+        print(f"{Fore.YELLOW}Clique em STOP e RUN{Fore.RESET} para recomeçar.")
         return
 
     if PeventoAtivo == True:
@@ -145,7 +170,7 @@ def atualizar_tela():
             print(f"\n{Fore.RED}VOCÊ PERDEU 1 PONTO DE LIDERANÇA POR NÃO FAZER NADA O DIA INTEIRO{Fore.RESET}")
         return
 
-    # Perguntas normais
+
     print(f"FEEDBACK ATUAL: ({Prespond + 1} de {perguntasDia})")
     print()
     print(pergunta)
@@ -217,7 +242,7 @@ def tecla_pressionada(event):
             print("-------------------------------")
             print(f"{Fore.RED}Você Perdeu!{Fore.RESET}")
             print("\nO hotel faliu. Você pode ter perdido por zerar Pontos de Liderança ou zerar conforto e hóspedes.")
-            print(f"Pressione {Fore.YELLOW}'ESC'{Fore.RESET} para fechar.")
+            print(f"{Fore.YELLOW}Clique em STOP e RUN{Fore.RESET} para recomeçar.")
             return
 
         if GG:
@@ -237,7 +262,7 @@ def tecla_pressionada(event):
             return
 
         if fimDia:
-            # Exemplo: compra de quartos
+
             if index == 0 and dinheiro >= 15000:
                 dinheiro -= 15000
                 quartos += 10
@@ -262,7 +287,7 @@ def tecla_pressionada(event):
             print("\nVocê não consegue pagar isso.")
             return
 
-        # Aplicar efeitos da escolha
+
         Prespond += 1
 
         if Prespond >= perguntasDia:
@@ -286,7 +311,7 @@ def tecla_pressionada(event):
 def check():
     global estrelas, diaria, hospedesConf, hosp, conf, hospedes, quartos, dinheiro, eventoDia, eventoPossivel, PEventoPossivel, GO, GG, maxConf, jaGG
 
-    # Controle de estrelas e diária
+
     if conf >= 90 and hospedes >= 250:
         estrelas = "* * * * *"
         diaria = 500
@@ -326,7 +351,7 @@ def check():
         diaria = 150
         PEventoPossivel = True
 
-    # Controle de conforto e hóspedes
+
     hospedesConf = min(conf // 10, 10)
 
     if conf > maxConf:
@@ -461,7 +486,7 @@ def gameOver():
     print("-------------------------------")
     print(f"{Fore.RED}Você Perdeu!{Fore.RESET}")
     print("\nO hotel faliu. Você pode ter perdido por zerar Pontos de Liderança ou Zerar conforto e hóspedes.")
-    print(f"{Fore.YELLOW}Recarregue{Fore.RESET} a página para recomeçar.")
+    print(f"{Fore.YELLOW}Clique em STOP e RUN{Fore.RESET} para recomeçar.")
 
 
 
